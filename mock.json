@@ -1,0 +1,695 @@
+[{
+    "filterTable": {
+        "th_id": true,
+        "client_name": true,
+        "diets": true,
+        "tariff": true,
+        "addres]s": true,
+        "phone": true,
+        "dates": true,
+        "discount": true,
+        "sum": true,
+        "shipped_sum": true,
+        "payment_type": true,
+        "courier_comment": true,
+        "inner_comment": true,
+        "status": true
+    },
+    "clientsData": [
+        {
+            "c_id": 3749,
+            "client_name": "Брюханова Анастасия Дмитриевна",
+            "diets": [
+                "1500",
+                "1200"
+            ],
+            "tariff": ["30 дней", "31 день (30+1 день подарок)"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 996 416-68-18"],
+            "dates": [
+                {
+                    "start_date": "2023/10/08",
+                    "end_date": "2023/11/07"
+                },
+                {
+                    "start_date": "2023/10/22",
+                    "end_date": "2023/11/22"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 10000,
+            "payed_sum": 10000,
+            "shipped_sum": 9800,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "20:00-22:00",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 3744,
+            "client_name": "Вдовина Анна Сергеевна",
+            "diets": [
+                "1000",
+                "1200",
+                "2000"
+            ],
+            "tariff": ["30 дней", "14 дней", "31 день (30+1 день подарок)"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 930 341-76-75"],
+            "dates": [
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/10/31"
+                },
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/10/15"
+                },
+                {
+                    "start_date": "2023/09/23",
+                    "end_date": "2023/10/24"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20500,
+            "payed_sum": 20500,
+            "shipped_sum": 14500,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "18:00-20:00",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 5768,
+            "client_name": "Аверьянова Оксана Владимировна",
+            "diets": [
+                "1200"
+            ],
+            "tariff": ["марафон 2"],
+            "address": "Иваново, Россия 4-й Писцовский переулок, 11/6",
+            "phone": ["+7 960 505-48-18"],
+            "dates": [
+                {
+                    "start_date": "2023/09/11",
+                    "end_date": "2023/11/11"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20200,
+            "payed_sum": 20000,
+            "shipped_sum": 19900,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 4658,
+            "client_name": "Корешкова Дарья Александровна",
+            "diets": [
+                "1500",
+                "1200"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 961 249-61-99"],
+            "dates": [
+                {
+                    "start_date": "2023/10/02",
+                    "end_date": "2023/11/01"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 21000,
+            "payed_sum": 21000,
+            "shipped_sum": 19000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 4960,
+            "client_name": "Брюханова Анастасия",
+            "diets": [
+                "1500"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 960 500-66-99", "+7 920 670-63-80"],
+            "dates": [
+                {
+                    "start_date": "2023/09/23",
+                    "end_date": "2023/10/23"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 14000,
+            "payed_sum": 14000,
+            "shipped_sum": 11000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 5709,
+            "client_name": "Окунева Ирина Алхасовна",
+            "diets": [
+                "2500"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия микрорайон Самоцветы, 12, подъезд 2, кв. 40",
+            "phone": ["+7 920 109-06-58"],
+            "dates": [
+                {
+                    "start_date": "2023/10/15",
+                    "end_date": "2023/11/15"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 18000,
+            "payed_sum": 9000,
+            "shipped_sum": 8000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 3857,
+            "client_name": "Коваженкова Евгения",
+            "diets": [
+                "1200"
+            ],
+            "tariff": ["30 дней"],
+            "address": "село Ново-Талицы, Ивановский район, Россия Радужная улица, 14, подъезд 3, этаж 4, кв. 42",
+            "phone": ["+7 929 088-29-22"],
+            "dates": [
+                {
+                    "start_date": "2023/11/18",
+                    "end_date": "2023/12/17"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 10000,
+            "shipped_sum": 12000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 4896,
+            "client_name": "Шустрова Ирина Ивановна",
+            "diets": [
+                "1200"
+            ],
+            "tariff": ["14 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 996 517-63-50"],
+            "dates": [
+                {
+                    "start_date": "2023/10/15",
+                    "end_date": "2023/10/29"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 12000,
+            "shipped_sum": 8900,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "04.11 - Село Китово, ул. Центральная, д. 102, кв. 32.",
+            "inner_comment": "ЖЕНА ДИРЕКТОРА",
+            "freezed": false
+        },
+        {
+            "c_id": 7693,
+            "client_name": "Базанов Валерий",
+            "diets": [
+                "1500"
+            ],
+            "tariff": ["30 дней"],
+            "address": "село Ново-Талицы, Ивановский район, Россия Радужная улица, 14, подъезд 3, этаж 4, кв. 44",
+            "phone": ["+7 930 343-82-08"],
+            "dates": [
+                {
+                    "start_date": "2023/11/01",
+                    "end_date": "2023/11/31"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20300,
+            "payed_sum": 10300,
+            "shipped_sum": 13000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 5876,
+            "client_name": "Господинова Юлия Вячеславовна",
+            "diets": [
+                "1000"
+            ],
+            "tariff": ["31 день (30+1 день подарок)"],
+            "address": "Иваново, Россия Кавалерийская улица, 42, подъезд 4, этаж 7, кв. 130",
+            "phone": ["+7 915 845-98-94"],
+            "dates": [
+                {
+                    "start_date": "2023/09/23",
+                    "end_date": "2023/10/23"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 23300,
+            "payed_sum": 23300,
+            "shipped_sum": 14000,
+            "payment_type": "Наличными",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 4856,
+            "client_name": "Константинова Екатерина Рафиковна",
+            "diets": [
+                "1500"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия Кавалерийская улица, 42, подъезд 4, этаж 7, кв. 133",
+            "phone": ["+7 909 280-88-91", "+7 909 280-18-21", "+7 901 284-99-34"],
+            "dates": [
+                {
+                    "start_date": "2023/12/02",
+                    "end_date": "2024/01/01"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 34000,
+            "payed_sum": 34000,
+            "shipped_sum": 23000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "28.10 - перенос 1д акция с прошлого заказа",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 6595,
+            "client_name": "Шаботинская Екатерина Александровна",
+            "diets": [
+                "2000"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия 1-я Полевая улица, 35, подъезд 1, этаж 4, кв. 11",
+            "phone": ["+7 901 284-99-34"],
+            "dates": [
+                {
+                    "start_date": "2023/11/24",
+                    "end_date": "2023/12/23"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 21000,
+            "payed_sum": 21000,
+            "shipped_sum": 19000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 3959,
+            "client_name": "Окунева Ирина",
+            "diets": [
+                "1000"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 996 517-63-50"],
+            "dates": [
+                {
+                    "start_date": "2023/12/01",
+                    "end_date": "2023/12/31"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 18000,
+            "shipped_sum": 3000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 3415,
+            "client_name": "Залужный Андрей Константинович",
+            "diets": [
+                "1500"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 930 341-76-75"],
+            "dates": [
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/10/31"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 19000,
+            "shipped_sum": 20000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": " Иваново, Россия улица Постышева, 65, подъезд 1, этаж 10, кв. 72 дома до 6 и после пол 9 ,но после пол 8 смогу открыть дверь по видеодомофону",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 6898,
+            "client_name": "Куликов Иван Андреевич",
+            "diets": [
+                "2500",
+                "1200"
+            ],
+            "tariff": ["30 дней", "14 дней"],
+            "address": "Иваново, Россия микрорайон Рождественский, 8",
+            "phone": ["+7 963 216-62-16"],
+            "dates": [
+                {
+                    "start_date": "2023/10/22",
+                    "end_date": "2023/11/21"
+                },
+                {
+                    "start_date": "2023/11/14",
+                    "end_date": "2023/11/28"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 20000,
+            "shipped_sum": 19000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 5341,
+            "client_name": "Петрова Мария Станиславовна",
+            "diets": [
+                "1500",
+                "1200"
+            ],
+            "tariff": ["31 день (30+1 день подарок)", "30 дней"],
+            "address": "Иваново, Россия Кузнечная улица, 38, подъезд 6, этаж 6, кв. 202",
+            "phone": ["+7 996 517-63-50"],
+            "dates": [
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/11/01"
+                },
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/10/31"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 28000,
+            "payed_sum": 23000,
+            "shipped_sum": 17000,
+            "payment_type": "Наличными",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": true
+        },
+        {
+            "c_id": 2748,
+            "client_name": "Цовбун Валерия",
+            "diets": [
+                "1200"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 996 517-63-50", "+7 909 280-88-91"],
+            "dates": [
+                {
+                    "start_date": "2023/09/23",
+                    "end_date": "2023/10/23"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 20000,
+            "shipped_sum": 11000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "26.10 - 30+2 (СЕМЬЯ)",
+            "freezed": false
+        },
+        {
+            "c_id": 2948,
+            "client_name": "Ширалиева Анастасия Александровна",
+            "diets": [
+                "1500"
+            ],
+            "tariff": ["30 дней"],
+            "address": "посёлок Красный Бор, Заволжское сельское поселение, Ярославский район, Россия квартал Светлояр, 4",
+            "phone": ["+7 929 088-29-22"],
+            "dates": [
+                {
+                    "start_date": "2023/09/01",
+                    "end_date": "2023/10/01"
+                }
+            ],
+            "discount": 30,
+            "order_sum": 9000,
+            "payed_sum": 9000,
+            "shipped_sum": 7000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 9573,
+            "client_name": "Лучак Глеб Антонович",
+            "diets": [
+                "1500",
+                "1200"
+            ],
+            "tariff": ["30 дней", "14 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 901 284-99-34"],
+            "dates": [
+                {
+                    "start_date": "2023/10/23",
+                    "end_date": "2023/11/23"
+                },
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/10/15"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 20000,
+            "shipped_sum": 18000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 3675,
+            "client_name": "Крупина Анастасия",
+            "diets": [
+                "1200"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 929 088-29-22"],
+            "dates": [
+                {
+                    "start_date": "2023/09/23",
+                    "end_date": "2023/10/23"
+                }
+            ],
+            "discount": 20,
+            "order_sum": 20000,
+            "payed_sum": 0,
+            "shipped_sum": 1500,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 6284,
+            "client_name": "Болдырев Артём",
+            "diets": [
+                "1200"
+            ],
+            "tariff": ["30 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 909 280-88-91"],
+            "dates": [
+                {
+                    "start_date": "2023/10/12",
+                    "end_date": "2023/11/11"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 23000,
+            "payed_sum": 22000,
+            "shipped_sum": 22500,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 1637,
+            "client_name": "Шаботинская Екатерина",
+            "diets": [
+                "2000"
+            ],
+            "tariff": ["31 день (30+1 день подарок)"],
+            "address": "Иваново, Россия 2-я Полевая улица, 36к2, подъезд 2, этаж 1, кв. 39",
+            "phone": ["+7 909 280-88-91"],
+            "dates": [
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/11/01"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 20000,
+            "shipped_sum": 13000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 2743,
+            "client_name": "Заярных Кристина Владимировна",
+            "diets": [
+                "1500",
+                "1200"
+            ],
+            "tariff": ["30 дней", "14 дней"],
+            "address": "Иваново, Россия улица Громобоя, 54",
+            "phone": ["+7 909 280-88-91"],
+            "dates": [
+                {
+                    "start_date": "2023/11/01",
+                    "end_date": "2023/12/01"
+                },
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/10/15"
+                }
+            ],
+            "discount": 10,
+            "order_sum": 24000,
+            "payed_sum": 24000,
+            "shipped_sum": 22000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": false
+        },
+        {
+            "c_id": 1739,
+            "client_name": "Болдырев Артём Глебович",
+            "diets": [
+                "1500",
+                "1200"
+            ],
+            "tariff": ["30 дней", "30 дней"],
+            "address": "Иваново, Россия Бакинский проезд, 84, подъезд 2, этаж 4, кв. 26",
+            "phone": ["+7 929 088-29-22"],
+            "dates": [
+                {
+                    "start_date": "2023/08/22",
+                    "end_date": "2023/09/21"
+                },
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/11/01"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 25000,
+            "payed_sum": 24000,
+            "shipped_sum": 12000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "26.10 - 30+2 (СЕМЬЯ)",
+            "freezed": true
+        },
+        {
+            "c_id": 7844,
+            "client_name": "Залужный Андрей",
+            "diets": [
+                "2500",
+                "2000"
+            ],
+            "tariff": ["30 дней", "14 дней"],
+            "address": "Иваново, Россия 4-й переулок Спартака, 3",
+            "phone": ["+7 996 517-63-50"],
+            "dates": [
+                {
+                    "start_date": "2023/10/22",
+                    "end_date": "2023/11/21"
+                },
+                {
+                    "start_date": "2023/11/01",
+                    "end_date": "2023/11/15"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 20000,
+            "payed_sum": 20000,
+            "shipped_sum": 17000,
+            "payment_type": "Наличными",
+            "courier_comment": "",
+            "inner_comment": "18.11 - 30+1 (Алина)",
+            "freezed": false
+        },
+        {
+            "c_id": 2737,
+            "client_name": "Ширалиева Анастасия",
+            "diets": [
+                "1500",
+                "1200"
+            ],
+            "tariff": ["30 дней", "14 дней"],
+            "address": "деревня Алексеевское, Карабихское сельское поселение, Ярославский район, Россия Парковая улица, 26",
+            "phone": ["+7 929 088-29-22"],
+            "dates": [
+                {
+                    "start_date": "2023/09/01",
+                    "end_date": "2023/10/01"
+                },
+                {
+                    "start_date": "2023/10/01",
+                    "end_date": "2023/10/15"
+                }
+            ],
+            "discount": 0,
+            "order_sum": 21000,
+            "payed_sum": 21000,
+            "shipped_sum": 16000,
+            "payment_type": "Онлайн картой",
+            "courier_comment": "",
+            "inner_comment": "",
+            "freezed": true
+        }
+    ]
+}]
